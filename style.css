@@ -13,3 +13,9 @@ body {
 table {
     width: 100%;
 }
+
+div {
+    background-image: url("images/denimlight.png");
+    background-repeat: true;
+    width: 100%;
+}
