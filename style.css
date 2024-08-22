@@ -38,7 +38,6 @@ img {
 }
 
 figcaption {
-    display: inline;
     z-index: 2;
     margin: 0;
     padding: 0;
@@ -47,4 +46,20 @@ figcaption {
 
 figure {
     text-align: right;
+}
+
+.whitecap {
+    width: 100px;
+    background-color: white;
+    padding: 10px 20px;
+    float: right;
+    text-align: center;
+}
+
+.greencap {
+    width: 150px;
+    background-color: green;
+    padding: 10px 20px;
+    float: right;
+    text-align: center;
 }
