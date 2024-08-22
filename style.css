@@ -22,7 +22,7 @@ div {
 img {
     height: 500px;
     width: 300px;
-    padding: 50px 10px;
+    z-index: 1;
 }
 
 #bodytext {
@@ -35,4 +35,16 @@ img {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 40px;
     font-weight: bold;
+}
+
+figcaption {
+    display: inline;
+    z-index: 2;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+figure {
+    text-align: right;
 }
