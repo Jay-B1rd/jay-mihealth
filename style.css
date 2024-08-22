@@ -22,5 +22,17 @@ div {
 img {
     height: 500px;
     width: 300px;
-    padding: 20px;
+    padding: 50px 10px;
+}
+
+#bodytext {
+    width: 300px;
+    text-align: left;
+    padding: 40px;
+}
+
+#bodytitle {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
 }
