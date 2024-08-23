@@ -54,6 +54,8 @@ figure {
     padding: 10px 20px;
     float: right;
     text-align: center;
+    position: relative;
+    top: -80px;
 }
 
 .greencap {
@@ -62,4 +64,6 @@ figure {
     padding: 10px 20px;
     float: right;
     text-align: center;
+    position: relative;
+    top: -80px;
 }
